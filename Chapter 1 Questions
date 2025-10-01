@@ -1,0 +1,5 @@
+Chapter 1 Questions
+Three reasons to use CSS animations over JS Animations? ( Hint read the MDN’s writeup animations!
+1. Easy to use for basic animation
+2. Animations run well under pressure of moderate system load
+3. The browser can optimize performance and efficiency
